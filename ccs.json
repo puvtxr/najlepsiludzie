@@ -1,0 +1,45 @@
+{
+    "room": "najlepsi ludzie w pl",
+    "author": "puaterovsky",
+    "icon": "https://zapodaj.net/images/b739cd63fe4c0.png",
+    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#FF4500",
+        "ambassador": "#CD5C5C",
+        "host": "#FFD700",
+        "cohost": "#FF99CC",
+        "manager": "#09B98A",
+        "bouncer": "#BDB76B",
+        "rdj": "#FA7F50",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#556B2F"
+    },
+    "images": {
+        "background": "https://zapodaj.net/images/fd6bcffc6d818.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://zapodaj.net/images/94345d03046c1.png",
+        "cohost": "https://zapodaj.net/images/001684d5a0751.png",
+        "manager": "https://zapodaj.net/images/8e5024eb554a8.png",
+        "bouncer": "https://zapodaj.net/images/b1d047d83cb80.png",
+        "rdj": "https://zapodaj.net/images/56f1c45df9825.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+        "test": "https://media.licdn.com/media/p/8/000/1e9/0e5/26e178f.png"
+    }
+}
