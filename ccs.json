@@ -2,7 +2,7 @@
     "room": "najlepsi ludzie w pl",
     "author": "puaterovsky",
     "icon": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/icon.png",
-    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/najlepsi.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
