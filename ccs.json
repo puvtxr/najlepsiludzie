@@ -1,7 +1,7 @@
 {
     "room": "najlepsi ludzie w pl",
     "author": "puaterovsky",
-    "icon": "https://zapodaj.net/images/b739cd63fe4c0.png",
+    "icon": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/icon.png",
     "css": "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond": true,
@@ -27,15 +27,15 @@
         "user": "#556B2F"
     },
     "images": {
-        "background": "https://zapodaj.net/images/fd6bcffc6d818.jpg",
+        "background": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/background.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://zapodaj.net/images/94345d03046c1.png",
-        "cohost": "https://zapodaj.net/images/001684d5a0751.png",
-        "manager": "https://zapodaj.net/images/8e5024eb554a8.png",
-        "bouncer": "https://zapodaj.net/images/b1d047d83cb80.png",
-        "rdj": "https://zapodaj.net/images/56f1c45df9825.png",
+        "host": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/host.png",
+        "cohost": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/cohost.png",
+        "manager": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/manager.png",
+        "bouncer": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/bouncer.png",
+        "rdj": "https://raw.githubusercontent.com/puvtxr/najlepsiludzie/master/img/rdj.png",
         "subscriber": null,
         "silversubscriber": null
     },
